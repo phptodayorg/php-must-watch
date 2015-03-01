@@ -1,5 +1,9 @@
 #PHP must watch
-A list of interesting conference talks and great videos on PHP.
+A list of interesting conference talks and great videos on PHP. 
+
+Suggestions and contributions are welcome but please check if it is already in the list. Framework specific talks are best avoided.
+
+@TODO - Better organization.
 
 ###Basics
 
