@@ -47,6 +47,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Practical Refactoring** - Stefan Koopmanschap at PHPNW14](https://www.youtube.com/watch?v=Peoy8aHIEzc)
 * [**Introducing Dependency Injection** - Rob Allen at PHPNW13](https://www.youtube.com/watch?v=ElnqUIjLWVk)
 * [**Don’t screw it up, how to build durable web APIs** - Alessandro Cinelli and Alessandro Nadalin at PHP Day 2014](https://vimeo.com/104905550)
+* [**Beyond Design Patterns** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=JV7fiM8r3nc)
 
 ###Performance and Scalability
 * [**High Performance PHP** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=qjYyC47rdVs)
