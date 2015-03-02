@@ -8,6 +8,9 @@ Suggestions and contributions are welcome, but please check if it is already in 
 ###Basics
 
 * [**Composer, Autoloading, Namespacing, and PHPUnit** - Tuts+ Code](https://www.youtube.com/watch?v=84j61_aI0q8)
+* [**Clean Code I: Arguments** - Uncle Bob, not PHP-specific](https://vimeo.com/13439458)
+* [**Clean Code II: Functions** - Uncle Bob, not PHP-specific](https://vimeo.com/12643301)
+* [**
 
 ###General
 * [**PHP 5.5** - Rasmus Lerdorf at phpDay 2014](https://vimeo.com/106388449)
@@ -29,6 +32,9 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Ansible Orchestrate your Infrastructure** - Jeremy Coates at PHP Day 2014](https://vimeo.com/107895274)
 
 ###Architecture and Design
+* [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc)
+* [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI)
+* [**Don't Look For Things** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 * [**Don't be STUPID, Grasp SOLID** - Anthony Ferrara at PHPNW13](https://www.youtube.com/watch?v=KHBrDWIKW8Q)
 * [**Hexagonal Architecture** - Chris Fidao at Laracon 2014](https://www.youtube.com/watch?v=6SBjKOwVq0o)
 * [**Unbreakable Domain Models** - Mathias Verraes at PHP UK Conference 2014](https://www.youtube.com/watch?v=ZJ63ltuwMaE)
@@ -48,6 +54,9 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Introducing Dependency Injection** - Rob Allen at PHPNW13](https://www.youtube.com/watch?v=ElnqUIjLWVk)
 * [**Don’t screw it up, how to build durable web APIs** - Alessandro Cinelli and Alessandro Nadalin at PHP Day 2014](https://vimeo.com/104905550)
 * [**Beyond Design Patterns** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=JV7fiM8r3nc)
+* [**Principles of Agile Design** - Uncle Bob, non-PHP specifc](http://www.infoq.com/presentations/principles-agile-oo-design)
+* [**Beyond Frameworks** - Stewart Stuart Herbert at PHP UK Conferences](https://vimeo.com/21145583)
+
 
 ###Performance and Scalability
 * [**High Performance PHP** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=qjYyC47rdVs)
@@ -73,6 +82,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Codeception, because tests can have frameworks too!** - Luka Mužinić at phpDay 2014](https://vimeo.com/106388448)
 * [**Behat v3! Behavioral-Driven-De­velopment, Functional Tests and Selenium**- Ryan Weaver at GrPhpDev 2014](https://www.youtube.com/watch?v=0F7-Rr4s9is)
 * [**Test, Transform, Refactor** - Marcello Duarte at PHP UK Conference 2014](https://www.youtube.com/watch?v=yPX3gZ7xgN8)
+* [**Unit Testing** - Misko Hevery, Clean Code Talks](https://www.youtube.com/watch?v=wEhu57pih5w)
 
 ###Frameworks
 * [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg)
