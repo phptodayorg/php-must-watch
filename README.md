@@ -10,7 +10,6 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Composer, Autoloading, Namespacing, and PHPUnit** - Tuts+ Code](https://www.youtube.com/watch?v=84j61_aI0q8)
 * [**Clean Code I: Arguments** - Uncle Bob, not PHP-specific](https://vimeo.com/13439458)
 * [**Clean Code II: Functions** - Uncle Bob, not PHP-specific](https://vimeo.com/12643301)
-* [**
 
 ###General
 * [**PHP 5.5** - Rasmus Lerdorf at phpDay 2014](https://vimeo.com/106388449)
@@ -54,7 +53,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Introducing Dependency Injection** - Rob Allen at PHPNW13](https://www.youtube.com/watch?v=ElnqUIjLWVk)
 * [**Don’t screw it up, how to build durable web APIs** - Alessandro Cinelli and Alessandro Nadalin at PHP Day 2014](https://vimeo.com/104905550)
 * [**Beyond Design Patterns** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=JV7fiM8r3nc)
-* [**Principles of Agile Design** - Uncle Bob, non-PHP specifc](http://www.infoq.com/presentations/principles-agile-oo-design)
+* [**Principles of Agile Design** - Uncle Bob, not-PHP specifc](http://www.infoq.com/presentations/principles-agile-oo-design)
 * [**Beyond Frameworks** - Stewart Stuart Herbert at PHP UK Conferences](https://vimeo.com/21145583)
 
 
