@@ -25,7 +25,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**PHP 5.NEXT: The New Bits** - Davey Shafik at PHP UK Conference 2014](https://www.youtube.com/watch?v=zX_U5mymWAg)
 * [**0x0F Ways to be a Better Developer** - Lorna Mitchell & Ivo Jansch at PHPNW13](https://www.youtube.com/watch?v=FPe3Ij3hXgs)
 * [**PHP-FIG:History and Future** - Phil Sturgeon at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=Gp9oSfSfr5I)
-* [**Laravel Homestead** - ](https://vimeo.com/114397167)
+* [**Your code sucks, let's fix it** - Rafael Dohms at Kings of Code Festival 2012](https://www.youtube.com/watch?v=H2AvoAzbGOE)
 * [**Ansible Orchestrate your Infrastructure** - Jeremy Coates at PHP Day 2014](https://vimeo.com/107895274)
 
 ###Architecture and Design
@@ -42,7 +42,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**RESTing with Symfony 2** - Lukas Kahwe Smith at Symfony Camp](https://www.youtube.com/watch?v=Kkby5fG89K0)
 * [**PHP Annotations: They Exist!** - Rafael Dohms at Laracon 2014](https://www.youtube.com/watch?v=oDVspbFgDCo)
 * [**Aphorisms of API Design** - Larry Garfield at Forum PHP 2013](https://www.youtube.com/watch?v=NVcG8ZJdRYs)
-* [**Asynchronous PHP** - Christopher Pitt at PHP CRAFT SouthAfrica 2014)](https://www.youtube.com/watch?v=kcjSVab5EhE)
+* [**Asynchronous PHP** - Christopher Pitt at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=kcjSVab5EhE)
 * [**GOTO Conference Keynote - Microservices** - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 * [**Practical Refactoring** - Stefan Koopmanschap at PHPNW14](https://www.youtube.com/watch?v=Peoy8aHIEzc)
 * [**Introducing Dependency Injection** - Rob Allen at PHPNW13](https://www.youtube.com/watch?v=ElnqUIjLWVk)
@@ -70,6 +70,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Design How Your Objects Talk Through Mocking** - Konstantin Kudryashov at Laracon EU 2014](https://www.youtube.com/watch?v=X6y-OyMPqfw)
 * [**Codeception, because tests can have frameworks too!** - Luka Mužinić at phpDay 2014](https://vimeo.com/106388448)
 * [**Behat v3! Behavioral-Driven-De­velopment, Functional Tests and Selenium**- Ryan Weaver at GrPhpDev 2014](https://www.youtube.com/watch?v=0F7-Rr4s9is)
+* [**Test, Transform, Refactor** - Marcello Duarte at PHP UK Conference 2014](https://www.youtube.com/watch?v=yPX3gZ7xgN8)
 
 ###Frameworks
 * [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg)
