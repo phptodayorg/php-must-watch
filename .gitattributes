@@ -1,0 +1,2 @@
+*.md linguist-language=PHP
+*.md linguist-documentation=false
