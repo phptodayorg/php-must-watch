@@ -33,7 +33,6 @@ Suggestions and contributions are welcome, but please check if it is already in 
 ###Architecture and Design
 * [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc)
 * [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI)
-* [**Don't Look For Things** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 * [**Don't be STUPID, Grasp SOLID** - Anthony Ferrara at PHPNW13](https://www.youtube.com/watch?v=KHBrDWIKW8Q)
 * [**Hexagonal Architecture** - Chris Fidao at Laracon 2014](https://www.youtube.com/watch?v=6SBjKOwVq0o)
 * [**Unbreakable Domain Models** - Mathias Verraes at PHP UK Conference 2014](https://www.youtube.com/watch?v=ZJ63ltuwMaE)
@@ -82,6 +81,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Behat v3! Behavioral-Driven-De­velopment, Functional Tests and Selenium**- Ryan Weaver at GrPhpDev 2014](https://www.youtube.com/watch?v=0F7-Rr4s9is)
 * [**Test, Transform, Refactor** - Marcello Duarte at PHP UK Conference 2014](https://www.youtube.com/watch?v=yPX3gZ7xgN8)
 * [**Unit Testing** - Misko Hevery, Clean Code Talks](https://www.youtube.com/watch?v=wEhu57pih5w)
+* [**Don't Look For Things** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 
 ###Frameworks
 * [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg)
