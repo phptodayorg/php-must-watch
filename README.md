@@ -12,23 +12,23 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Clean Code II: Functions**](https://vimeo.com/12643301) - Uncle Bob, not PHP-specific `[51:30]`
 
 ###General
-* [**PHP 5.5** - Rasmus Lerdorf at phpDay 2014](https://vimeo.com/106388449)
-* [**PHPCraft SouthAfrica Keynote 2014** - Rasmus Lerdorf](https://www.youtube.com/watch?v=hPV6fEjoYq8)
-* [**It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase** - Paul Jones at Nashville PHP](https://vimeo.com/47849625)
-* [**My Take on PHP - Fabien Potencier** at dotScale 2014](https://www.youtube.com/watch?v=gpNbmEnRLBU)
-* [**The Modern Developer Toolbox** - Pablo Godel at PHPNW14](https://www.youtube.com/watch?v=VHkIc329Idw)
-* [**Your (coding) standards matter** - Volker Dusch at PHPNW13](https://www.youtube.com/watch?v=GQiUpjiyer0)
-* [**HHVM in 2014** - Elizabeth Smith at php[tek] 2014](https://www.youtube.com/watch?v=5i7WTvqH0ls)
-* [**HTTP and Your Angry Dog** - Ross Tuck at Laracon 2013](https://www.youtube.com/watch?v=2qBaMsYXtJ4)
-* [**Introduction to NoSQL** - Martin Fowler at GOTO Conference 2013](https://www.youtube.com/watch?v=qI_g07C_Q5I)
-* [**Vagrant Provisioners In A Nutshell** - Erika Heidi at PHP UK Conference 2014](https://www.youtube.com/watch?v=x7iA4yzDsAg)
-* [**Debugging: Past, Present and Future** - Derick Rethans at PHPNW14](https://www.youtube.com/watch?v=5mRk2bE7BAQ)
-* [**In Depth Composer** - Jordi Boggiano at Laracon EU 2013](https://www.youtube.com/watch?v=q3UfxubW_PU)
-* [**PHP 5.NEXT: The New Bits** - Davey Shafik at PHP UK Conference 2014](https://www.youtube.com/watch?v=zX_U5mymWAg)
-* [**0x0F Ways to be a Better Developer** - Lorna Mitchell & Ivo Jansch at PHPNW13](https://www.youtube.com/watch?v=FPe3Ij3hXgs)
-* [**PHP-FIG:History and Future** - Phil Sturgeon at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=Gp9oSfSfr5I)
-* [**Your code sucks, let's fix it** - Rafael Dohms at Kings of Code Festival 2012](https://www.youtube.com/watch?v=H2AvoAzbGOE)
-* [**Ansible Orchestrate your Infrastructure** - Jeremy Coates at PHP Day 2014](https://vimeo.com/107895274)
+* [**PHP 5.5**](https://vimeo.com/106388449) - Rasmus Lerdorf at phpDay 2014 `[47:35]`
+* [**PHPCraft SouthAfrica Keynote 2014**](https://www.youtube.com/watch?v=hPV6fEjoYq8) - Rasmus Lerdorf `[1:00:43]`
+* [**It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase**](https://vimeo.com/47849625) - Paul M. Jones at Nashville PHP `[47:44]`
+* [**My Take on PHP**](https://www.youtube.com/watch?v=gpNbmEnRLBU) - Fabien Potencier at dotScale 2014 `[18:19]`
+* [**The Modern Developer Toolbox**](https://www.youtube.com/watch?v=VHkIc329Idw) - Pablo Godel at PHPNW14 `[49:55]`
+* [**PHP-FIG:History and Future**](https://www.youtube.com/watch?v=Gp9oSfSfr5I) - Phil Sturgeon at PHP CRAFT SouthAfrica 2014 `[1:05:01]`
+* [**PHP 5.NEXT: The New Bits**](https://www.youtube.com/watch?v=zX_U5mymWAg) - Davey Shafik at PHP UK Conference 2014 `[42:40]`
+* [**Your (coding) standards matter**](https://www.youtube.com/watch?v=GQiUpjiyer0) - Volker Dusch at PHPNW13 `[45:00]`
+* [**HHVM in 2014**](https://www.youtube.com/watch?v=5i7WTvqH0ls) - Elizabeth Smith at php[tek] 2014 `[58:58]`
+* [**In Depth Composer**](https://www.youtube.com/watch?v=q3UfxubW_PU) - Jordi Boggiano at Laracon EU 2013 `[46:49]`
+* [**HTTP and Your Angry Dog**](https://www.youtube.com/watch?v=2qBaMsYXtJ4) - Ross Tuck at Laracon 2013 `[52:14]`
+* [**Introduction to NoSQL**](https://www.youtube.com/watch?v=qI_g07C_Q5I) - Martin Fowler at GOTO Conference 2013 `[54:51]`
+* [**Vagrant Provisioners In A Nutshell**](https://www.youtube.com/watch?v=x7iA4yzDsAg) - Erika Heidi at PHP UK Conference 2014 `[47:01]`
+* [**Debugging: Past, Present and Future**](https://www.youtube.com/watch?v=5mRk2bE7BAQ) - Derick Rethans at PHPNW14 `[45:09]`
+* [**0x0F Ways to be a Better Developer**](https://www.youtube.com/watch?v=FPe3Ij3hXgs) - Lorna Mitchell & Ivo Jansch at PHPNW13 `[40:02]`
+* [**Your code sucks, let's fix it**](https://www.youtube.com/watch?v=H2AvoAzbGOE) - Rafael Dohms at Kings of Code Festival 2012 `[47:24]`
+* [**Ansible Orchestrate your Infrastructure**](https://vimeo.com/107895274) - Jeremy Coates at PHP Day 2014 `[52:37]`
 
 ###Architecture and Design
 * [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc)
