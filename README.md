@@ -42,29 +42,29 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Ansible Orchestrate your Infrastructure**](https://vimeo.com/107895274) - Jeremy Coates at PHP Day 2014 `[52:37]`
 
 ###Architecture and Design
-* [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc)
-* [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI)
-* [**Don't be STUPID, Grasp SOLID** - Anthony Ferrara at PHPNW13](https://www.youtube.com/watch?v=KHBrDWIKW8Q)
-* [**Hexagonal Architecture** - Chris Fidao at Laracon 2014](https://www.youtube.com/watch?v=6SBjKOwVq0o)
-* [**Unbreakable Domain Models** - Mathias Verraes at PHP UK Conference 2014](https://www.youtube.com/watch?v=ZJ63ltuwMaE)
-* [**Practical Event Sourcing** - Mathias Verraes at phpDay 2014](https://vimeo.com/104095245)
-* [**Decoupling the Model from the Framework** - Mathias Verraes at Laracon 2014](https://www.youtube.com/watch?v=QaIGN_cTcc8)
-* [**API Design: It's Not Rocket Surgery** - Dave Ingram at PHP UK 2013](https://www.youtube.com/watch?v=aoiaSkRCObY)
-* [**The Template Is Not The View: A Brief Introduction to Action-Domain-Responder** - Paul M. Jones at Nomad PHP](https://www.youtube.com/watch?v=rlrTyN0aqSk)
-* [**Action-Domain-Responder** - Paul M. Jones](https://vimeo.com/106771285)
-* [**Designing HTTP Interfaces And RESTful Web Services** - David Zuelke at SymfonyLive Paris 2012](https://www.youtube.com/watch?v=XzgCzjMdvRE)
-* [**Web Frontend, API Backend** - Lorna Mitchell at PHPNW14](https://www.youtube.com/watch?v=AdX0q3-4Mfw)
-* [**RESTing with Symfony 2** - Lukas Kahwe Smith at Symfony Camp](https://www.youtube.com/watch?v=Kkby5fG89K0)
-* [**PHP Annotations: They Exist!** - Rafael Dohms at Laracon 2014](https://www.youtube.com/watch?v=oDVspbFgDCo)
-* [**Aphorisms of API Design** - Larry Garfield at Forum PHP 2013](https://www.youtube.com/watch?v=NVcG8ZJdRYs)
-* [**Asynchronous PHP** - Christopher Pitt at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=kcjSVab5EhE)
-* [**GOTO Conference Keynote - Microservices** - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
-* [**Practical Refactoring** - Stefan Koopmanschap at PHPNW14](https://www.youtube.com/watch?v=Peoy8aHIEzc)
-* [**Introducing Dependency Injection** - Rob Allen at PHPNW13](https://www.youtube.com/watch?v=ElnqUIjLWVk)
-* [**Don’t screw it up, how to build durable web APIs** - Alessandro Cinelli and Alessandro Nadalin at PHP Day 2014](https://vimeo.com/104905550)
-* [**Beyond Design Patterns** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=JV7fiM8r3nc)
-* [**Principles of Agile Design** - Uncle Bob, not-PHP specifc](http://www.infoq.com/presentations/principles-agile-oo-design)
-* [**Beyond Frameworks** - Stewart Stuart Herbert at PHP UK Conferences](https://vimeo.com/21145583)
+* [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc) `[38:24]`
+* [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI) `[54:08]`
+* [**Don't be STUPID, Grasp SOLID** - Anthony Ferrara at PHPNW13](https://www.youtube.com/watch?v=KHBrDWIKW8Q) `[32:30]`
+* [**Hexagonal Architecture** - Chris Fidao at Laracon 2014](https://www.youtube.com/watch?v=6SBjKOwVq0o) `[38:43]`
+* [**Unbreakable Domain Models** - Mathias Verraes at PHP UK Conference 2014](https://www.youtube.com/watch?v=ZJ63ltuwMaE) `[1:03:25]`
+* [**Practical Event Sourcing** - Mathias Verraes at phpDay 2014](https://vimeo.com/104095245) `[43:38]`
+* [**Decoupling the Model from the Framework** - Mathias Verraes at Laracon 2014](https://www.youtube.com/watch?v=QaIGN_cTcc8) `[53:35]`
+* [**API Design: It's Not Rocket Surgery** - Dave Ingram at PHP UK 2013](https://www.youtube.com/watch?v=aoiaSkRCObY) `[36:40]`
+* [**The Template Is Not The View: A Brief Introduction to Action-Domain-Responder** - Paul M. Jones at Nomad PHP](https://www.youtube.com/watch?v=rlrTyN0aqSk) `[12:56]`
+* [**Action-Domain-Responder** - Paul M. Jones](https://vimeo.com/106771285) `[52:33]`
+* [**Designing HTTP Interfaces And RESTful Web Services** - David Zuelke at SymfonyLive Paris 2012](https://www.youtube.com/watch?v=XzgCzjMdvRE) `[1:00:54]`
+* [**Web Frontend, API Backend** - Lorna Mitchell at PHPNW14](https://www.youtube.com/watch?v=AdX0q3-4Mfw) `[45:42]`
+* [**RESTing with Symfony 2** - Lukas Kahwe Smith at Symfony Camp](https://www.youtube.com/watch?v=Kkby5fG89K0) `[56:52]`
+* [**PHP Annotations: They Exist!** - Rafael Dohms at Laracon 2014](https://www.youtube.com/watch?v=oDVspbFgDCo) `[49:48]`
+* [**Aphorisms of API Design** - Larry Garfield at Forum PHP 2013](https://www.youtube.com/watch?v=NVcG8ZJdRYs) `[43:54]`
+* [**Asynchronous PHP** - Christopher Pitt at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=kcjSVab5EhE) `[47:39]`
+* [**GOTO Conference Keynote - Microservices** - Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA) `[26:25]`
+* [**Practical Refactoring** - Stefan Koopmanschap at PHPNW14](https://www.youtube.com/watch?v=Peoy8aHIEzc) `[52:27]`
+* [**Introducing Dependency Injection** - Rob Allen at PHPNW13](https://www.youtube.com/watch?v=ElnqUIjLWVk) `[39:40]`
+* [**Don’t screw it up, how to build durable web APIs** - Alessandro Cinelli and Alessandro Nadalin at PHP Day 2014](https://vimeo.com/104905550) `[45:39]`
+* [**Beyond Design Patterns** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=JV7fiM8r3nc) `[49:23]`
+* [**Principles of Agile Design** - Uncle Bob, not-PHP specifc](http://www.infoq.com/presentations/principles-agile-oo-design) `[29:35]`
+* [**Beyond Frameworks** - Stewart Stuart Herbert at PHP UK Conferences](https://vimeo.com/21145583) `[49:52]`
 
 
 ###Performance and Scalability
