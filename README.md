@@ -68,13 +68,13 @@ Suggestions and contributions are welcome, but please check if it is already in 
 
 
 ###Performance and Scalability
-* [**High Performance PHP** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=qjYyC47rdVs)
-* [**Caching Best Practices** - Eli White at PHP UK 2014](https://www.youtube.com/watch?v=bsZQcbBcXuQ)
-* [**Scaling PHP in the Real World** - Dustin Whittle at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=fXzWo2xpGS0)
-* [**Scaling e-commerce with PHP** - Simonas Šerlinskas at High Load Strategy 2015](https://vimeo.com/118899410)
-* [**Processing events at scale** - Mariusz Gil at High Load Strategy 2015](https://vimeo.com/118903254)
-* [**Profiling PHP Applications** - Bastian Hofmann at PHP UK 2014](https://www.youtube.com/watch?v=4TbxHDSDkiw)
-* [**Bottleneck Analysis** - Ilia Alshanetsky at PHP UK Conference 2013](https://www.youtube.com/watch?v=f8zACyZAE9s)
+* [**High Performance PHP** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=qjYyC47rdVs) `[44:38]`
+* [**Caching Best Practices** - Eli White at PHP UK 2014](https://www.youtube.com/watch?v=bsZQcbBcXuQ) `[1:03:29]`
+* [**Scaling PHP in the Real World** - Dustin Whittle at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=fXzWo2xpGS0) `[33:35]`
+* [**Scaling e-commerce with PHP** - Simonas Šerlinskas at High Load Strategy 2015](https://vimeo.com/118899410) `[30:14]`
+* [**Processing events at scale** - Mariusz Gil at High Load Strategy 2015](https://vimeo.com/118903254) `[29:17]`
+* [**Profiling PHP Applications** - Bastian Hofmann at PHP UK 2014](https://www.youtube.com/watch?v=4TbxHDSDkiw) `[1:03:44]`
+* [**Bottleneck Analysis** - Ilia Alshanetsky at PHP UK Conference 2013](https://www.youtube.com/watch?v=f8zACyZAE9s) `[50:28]`
 
 ##Security
 * [**Web Security And You** - Eli White at PHP UK Conference 2014](https://www.youtube.com/watch?v=ROlhsYQH3qY)
