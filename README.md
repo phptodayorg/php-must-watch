@@ -95,9 +95,9 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Don't Look For Things** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 
 ###Frameworks
-* [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg)
-* [**Standardization, the Symfony Way** - Fabien Potencier at Laracon 2013](https://www.youtube.com/watch?v=0erGiEm07b8)
-* [**The State of Laravel** - Taylor Otwell at Laracon 2014](https://www.youtube.com/watch?v=eyDFr7wCIdE)
+* [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg) `[46:31]`
+* [**Standardization, the Symfony Way** - Fabien Potencier at Laracon 2013](https://www.youtube.com/watch?v=0erGiEm07b8) `[1:00:05]`
+* [**The State of Laravel** - Taylor Otwell at Laracon 2014](https://www.youtube.com/watch?v=eyDFr7wCIdE) `[1:00:17]`
 
 ###Others
 * [**Intl Me This, Intl me That** - Andrei Zmievski at PHP UK Conference 2014](https://www.youtube.com/watch?v=g3M6YzzBEI4)
