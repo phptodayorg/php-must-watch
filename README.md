@@ -4,7 +4,7 @@
 2. [General](#general)
 3. [Architecture and Design](#architecture-and-design)
 4. [Performance and Scalability](#performance-and-scalability)
-5. [Secutiry](#security)
+5. [Security](#security)
 6. [Testing](#testing)
 7. [Frameworks](#frameworks)
 8. [Others](#others)
