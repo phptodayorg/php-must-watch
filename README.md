@@ -104,6 +104,6 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**Lisp** - Igor Wiedler at Laracon EU 2014](https://www.youtube.com/watch?v=FRaNUsiD_BA) `[56:00]`
 
 ###Advanced
-* [**Include Hack - HHVM - PHP++** - Paul Tarjan, Sara Golemon at OSCON 2014](https://www.youtube.com/watch?v=JrPGa1JDX38)
-* [**PHP Under The Hood** - Davey Shafik at PHP UK 2014](https://www.youtube.com/watch?v=bHZX-CM-qQc)
-* [**Abstract Machines** - Igor Wiedler at Laracon 2014](https://www.youtube.com/watch?v=zu_iFwD8MfI)
+* [**Include Hack - HHVM - PHP++** - Paul Tarjan, Sara Golemon at OSCON 2014](https://www.youtube.com/watch?v=JrPGa1JDX38) `[42:06]`
+* [**PHP Under The Hood** - Davey Shafik at PHP UK 2014](https://www.youtube.com/watch?v=bHZX-CM-qQc) `[36:19]`
+* [**Abstract Machines** - Igor Wiedler at Laracon 2014](https://www.youtube.com/watch?v=zu_iFwD8MfI) `[1:00:43]`
