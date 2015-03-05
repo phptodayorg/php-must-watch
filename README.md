@@ -1,4 +1,15 @@
 #PHP must watch
+
+1. [Basics](#basics)
+2. [General](#general)
+3. [Architecture and Design](#architecture-and-design)
+4. [Performance and Scalability](#performance-and-scalability)
+5. [Secutiry](#security)
+6. [Testing](#testing)
+7. [Frameworks](#frameworks)
+8. [Others](#others)
+9. [Advanced](#advanced)
+
 A list of interesting conference talks and great videos on PHP. Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
 Suggestions and contributions are welcome, but please check if it is already in the list. Framework specific talks are best avoided.
