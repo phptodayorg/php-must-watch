@@ -100,8 +100,8 @@ Suggestions and contributions are welcome, but please check if it is already in 
 * [**The State of Laravel** - Taylor Otwell at Laracon 2014](https://www.youtube.com/watch?v=eyDFr7wCIdE) `[1:00:17]`
 
 ###Others
-* [**Intl Me This, Intl me That** - Andrei Zmievski at PHP UK Conference 2014](https://www.youtube.com/watch?v=g3M6YzzBEI4)
-* [**Lisp** - Igor Wiedler at Laracon EU 2014](https://www.youtube.com/watch?v=FRaNUsiD_BA)
+* [**Intl Me This, Intl me That** - Andrei Zmievski at PHP UK Conference 2014](https://www.youtube.com/watch?v=g3M6YzzBEI4) `[51:56]`
+* [**Lisp** - Igor Wiedler at Laracon EU 2014](https://www.youtube.com/watch?v=FRaNUsiD_BA) `[56:00]`
 
 ###Advanced
 * [**Include Hack - HHVM - PHP++** - Paul Tarjan, Sara Golemon at OSCON 2014](https://www.youtube.com/watch?v=JrPGa1JDX38)
