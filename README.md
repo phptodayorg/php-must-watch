@@ -93,15 +93,15 @@ Suggestions and contributions are welcome, but please check if it is already in 
 [Back to top](#php-must-watch)
 
 ###Testing
-* [**PHPUnit Best Practices** - Sebastian Bergmann at Atlanta PHP UG](https://vimeo.com/63492364)
-* [**Emergent Design with PhpSpec** - Marcello Duarte at  phpDay 2014](https://vimeo.com/104905612)
-* [**Using PhpSpec to build quality into a Symfony app** - Jakub Zalas at SymfonyLive London 2013](https://www.youtube.com/watch?v=zSrwu0uQ1VQ)
-* [**Design How Your Objects Talk Through Mocking** - Konstantin Kudryashov at Laracon EU 2014](https://www.youtube.com/watch?v=X6y-OyMPqfw)
-* [**Codeception, because tests can have frameworks too!** - Luka Mužinić at phpDay 2014](https://vimeo.com/106388448)
-* [**Behat v3! Behavioral-Driven-De­velopment, Functional Tests and Selenium**- Ryan Weaver at GrPhpDev 2014](https://www.youtube.com/watch?v=0F7-Rr4s9is)
-* [**Test, Transform, Refactor** - Marcello Duarte at PHP UK Conference 2014](https://www.youtube.com/watch?v=yPX3gZ7xgN8)
-* [**Unit Testing** - Misko Hevery, Clean Code Talks](https://www.youtube.com/watch?v=wEhu57pih5w)
-* [**Don't Look For Things** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
+* [**PHPUnit Best Practices** - Sebastian Bergmann at Atlanta PHP UG](https://vimeo.com/63492364) `[1:01:55]`
+* [**Emergent Design with PhpSpec** - Marcello Duarte at  phpDay 2014](https://vimeo.com/104905612) `[49:34]`
+* [**Using PhpSpec to build quality into a Symfony app** - Jakub Zalas at SymfonyLive London 2013](https://www.youtube.com/watch?v=zSrwu0uQ1VQ) `[40:53]`
+* [**Design How Your Objects Talk Through Mocking** - Konstantin Kudryashov at Laracon EU 2014](https://www.youtube.com/watch?v=X6y-OyMPqfw) `[1:00:40]`
+* [**Codeception, because tests can have frameworks too!** - Luka Mužinić at phpDay 2014](https://vimeo.com/106388448) `[25:15]`
+* [**Behat v3! Behavioral-Driven-De­velopment, Functional Tests and Selenium**- Ryan Weaver at GrPhpDev 2014](https://www.youtube.com/watch?v=0F7-Rr4s9is) `[1:04:23]`
+* [**Test, Transform, Refactor** - Marcello Duarte at PHP UK Conference 2014](https://www.youtube.com/watch?v=yPX3gZ7xgN8) `[52:28]`
+* [**Unit Testing** - Misko Hevery, Clean Code Talks](https://www.youtube.com/watch?v=wEhu57pih5w) `[32:07]`
+* [**Don't Look For Things** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=RlfLCWKxHJ0) `[37:56]`
 
 [Back to top](#php-must-watch)
 
