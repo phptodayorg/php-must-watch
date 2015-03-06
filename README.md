@@ -86,7 +86,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 ##Security
 * [**Web Security And You** - Eli White at PHP UK Conference 2014](https://www.youtube.com/watch?v=ROlhsYQH3qY) `[1:04:23]`
 * [**Security Is Not a Feature, It's a State of Mind** - Elizabeth Smith at php[tek] 2014](https://www.youtube.com/watch?v=_kDL-ZhIOzA) `[1:06:50]`
-* [**Understanding the OWASP** - Gary Hockin at PHPNW14](https://www.youtube.com/watch?v=LavKR0OZnxo)
+* [**Understanding the OWASP** - Gary Hockin at PHPNW14](https://www.youtube.com/watch?v=MqFBn6oDh-U) `[44:09]`
 * [**Password Storage (And Hacking) in PHP** - Anthony Ferrara at PHP Benelux Conference 2013](https://www.youtube.com/watch?v=T4NTdRvIrdk) `[39:30]`
 * [**Application Logic Security** - Ilia Alshanetsky at PHPBenelux 2013](https://www.youtube.com/watch?v=cOpDDPV7uoA) `[54:09]`
 
