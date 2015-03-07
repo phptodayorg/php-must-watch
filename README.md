@@ -115,6 +115,7 @@ Suggestions and contributions are welcome, but please check if it is already in 
 ###Others
 * [**Intl Me This, Intl me That** - Andrei Zmievski at PHP UK Conference 2014](https://www.youtube.com/watch?v=g3M6YzzBEI4) `[51:56]`
 * [**Lisp** - Igor Wiedler at Laracon EU 2014](https://www.youtube.com/watch?v=FRaNUsiD_BA) `[56:00]`
+* [**Be Awesome in PHPStorm** - Jeffrey Way](https://laracasts.com/series/how-to-be-awesome-in-phpstorm) `~[2:00:00]` (series)
 
 [Back to top](#php-must-watch)
 
