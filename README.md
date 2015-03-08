@@ -78,7 +78,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 * [**Processing events at scale** - Mariusz Gil at High Load Strategy 2015](https://vimeo.com/118903254) `[29:17]`
 * [**Profiling PHP Applications** - Bastian Hofmann at PHP UK 2014](https://www.youtube.com/watch?v=4TbxHDSDkiw) `[1:03:44]`
 * [**Bottleneck Analysis** - Ilia Alshanetsky at PHP UK Conference 2013](https://www.youtube.com/watch?v=f8zACyZAE9s) `[50:28]`
-* [**Scaling a High Traffic Web Application: Our Journey from Java to PHP - Dr. Aris Zakinthinos, 201)**](https://www.youtube.com/watch?v=oS1D1W6eTwg) `[1:18:37]`
+* [**Scaling a High Traffic Web Application: Our Journey from Java to PHP** - Dr. Aris Zakinthinos, (2012)](https://www.youtube.com/watch?v=oS1D1W6eTwg) `[1:18:37]`
 
 [Back to top](#php-must-watch)
 
