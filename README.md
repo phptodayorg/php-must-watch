@@ -23,7 +23,6 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 [Back to top](#php-must-watch)
 
 ###General
-* [**PHP 5.5**](https://vimeo.com/106388449) - Rasmus Lerdorf at phpDay 2014 `[47:35]`
 * [**PHPCraft SouthAfrica Keynote 2014**](https://www.youtube.com/watch?v=hPV6fEjoYq8) - Rasmus Lerdorf `[1:00:43]`
 * [**It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase**](https://vimeo.com/47849625) - Paul M. Jones at Nashville PHP `[47:44]`
 * [**My Take on PHP**](https://www.youtube.com/watch?v=gpNbmEnRLBU) - Fabien Potencier at dotScale 2014 `[18:19]`
