@@ -43,6 +43,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 [Back to top](#php-must-watch)
 
 ###Architecture and Design
+* [**Elastic scaling in a (micro)service oriented architecture**](https://www.youtube.com/watch?v=YBDscJhz2S0) - Bastian Hofmann at PHP UK Conference 2016 `[1:02:24]`
 * [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc) `[38:24]`
 * [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI) `[54:08]`
 * [**Don't be STUPID, Grasp SOLID** - Anthony Ferrara at PHPNW13](https://www.youtube.com/watch?v=KHBrDWIKW8Q) `[32:30]`
