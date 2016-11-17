@@ -120,6 +120,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 * [**Lisp** - Igor Wiedler at Laracon EU 2014](https://www.youtube.com/watch?v=FRaNUsiD_BA) `[56:00]`
 * [**Be Awesome in PHPStorm** - Jeffrey Way](https://laracasts.com/series/how-to-be-awesome-in-phpstorm) `~[2:00:00]` (series)
 * [**Symfony must watch**](https://github.com/symfony-si/symfony-must-watch) - must watch videos about Symfony
+* [**Getting Started with Pusher and Laravel Echo**](https://youtu.be/Qoti7G-tjN8) - In this screencast, The Skater Dev teaches how to build a real-time comments using Laravel, Laravel Echo, and the Pusher Laravel Echo integration.
 
 [Back to top](#php-must-watch)
 
