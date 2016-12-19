@@ -5,10 +5,11 @@
 3. [Architecture and Design](#architecture-and-design)
 4. [Performance and Scalability](#performance-and-scalability)
 5. [Security](#security)
-6. [Testing](#testing)
-7. [Frameworks](#frameworks)
-8. [Others](#others)
-9. [Advanced](#advanced)
+6. [Console](#console)
+7. [Testing](#testing)
+8. [Frameworks](#frameworks)
+9. [Others](#others)
+10. [Advanced](#advanced)
 
 A list of interesting conference talks and great videos on PHP. Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
@@ -91,6 +92,10 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 * [**Application Logic Security** - Ilia Alshanetsky at PHPBenelux 2013](https://www.youtube.com/watch?v=cOpDDPV7uoA) `[54:09]`
 
 [Back to top](#php-must-watch)
+
+###Console
+
+* [**CLIFramework** - A powerful command-line framework supports zsh/bash completion generation](https://github.com/c9s/CLIFramework)
 
 ###Testing
 * [**PHPUnit Best Practices** - Sebastian Bergmann at Atlanta PHP UG](https://vimeo.com/63492364) `[1:01:55]`
