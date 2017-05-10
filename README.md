@@ -1,4 +1,4 @@
-#PHP must watch
+# PHP must watch
 
 1. [Basics](#basics)
 2. [General](#general)
@@ -14,7 +14,7 @@ A list of interesting conference talks and great videos on PHP. Inspired by [js-
 
 Suggestions and contributions are welcome, please read the [contributing guidelines](CONTRIBUTING.md).
 
-###Basics
+### Basics
 
 * [**Composer, Autoloading, Namespacing, and PHPUnit**](https://www.youtube.com/watch?v=84j61_aI0q8) - Tuts+ Code `[23:53]`
 * [**Clean Code I: Arguments**](https://vimeo.com/13439458) - Uncle Bob, not PHP-specific `[53:33]`
@@ -22,7 +22,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 [Back to top](#php-must-watch)
 
-###General
+### General
 * [**PHPCraft SouthAfrica Keynote 2014**](https://www.youtube.com/watch?v=hPV6fEjoYq8) - Rasmus Lerdorf `[1:00:43]`
 * [**It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase**](https://vimeo.com/47849625) - Paul M. Jones at Nashville PHP `[47:44]`
 * [**My Take on PHP**](https://www.youtube.com/watch?v=gpNbmEnRLBU) - Fabien Potencier at dotScale 2014 `[18:19]`
@@ -42,7 +42,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 [Back to top](#php-must-watch)
 
-###Architecture and Design
+###  Architecture and Design
 * [**Elastic scaling in a (micro)service oriented architecture**](https://www.youtube.com/watch?v=YBDscJhz2S0) - Bastian Hofmann at PHP UK Conference 2016 `[1:02:24]`
 * [**Inheritance, Polymorphism, & Testing** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=4F72VULWFvc) `[38:24]`
 * [**Global State & Singletons** - Misko Hevery, Clean Code Talks 2008](https://www.youtube.com/watch?v=-FRm3VPhseI) `[54:08]`
@@ -71,7 +71,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 [Back to top](#php-must-watch)
 
-###Performance and Scalability
+### Performance and Scalability
 * [**High Performance PHP** - Anthony Ferrara at PHPNW14](https://www.youtube.com/watch?v=qjYyC47rdVs) `[44:38]`
 * [**Caching Best Practices** - Eli White at PHP UK 2014](https://www.youtube.com/watch?v=bsZQcbBcXuQ) `[1:03:29]`
 * [**Scaling PHP in the Real World** - Dustin Whittle at PHP CRAFT SouthAfrica 2014](https://www.youtube.com/watch?v=fXzWo2xpGS0) `[33:35]`
@@ -83,7 +83,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 [Back to top](#php-must-watch)
 
-##Security
+### Security
 * [**Web Security And You** - Eli White at PHP UK Conference 2014](https://www.youtube.com/watch?v=ROlhsYQH3qY) `[1:04:23]`
 * [**Security Is Not a Feature, It's a State of Mind** - Elizabeth Smith at php[tek] 2014](https://www.youtube.com/watch?v=_kDL-ZhIOzA) `[1:06:50]`
 * [**Understanding the OWASP** - Gary Hockin at PHPNW14](https://www.youtube.com/watch?v=MqFBn6oDh-U) `[44:09]`
@@ -92,7 +92,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 [Back to top](#php-must-watch)
 
-###Testing
+### Testing
 * [**PHPUnit Best Practices** - Sebastian Bergmann at Atlanta PHP UG](https://vimeo.com/63492364) `[1:01:55]`
 * [**Emergent Design with PhpSpec** - Marcello Duarte at  phpDay 2014](https://vimeo.com/104905612) `[49:34]`
 * [**Using PhpSpec to build quality into a Symfony app** - Jakub Zalas at SymfonyLive London 2013](https://www.youtube.com/watch?v=zSrwu0uQ1VQ) `[40:53]`
@@ -106,7 +106,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 [Back to top](#php-must-watch)
 
-###Frameworks
+### Frameworks
 * [**Silex Anatomy** - Igor Wiedler at PHP Benelux 2013](https://www.youtube.com/watch?v=9VUoIruQNMg) `[46:31]`
 * [**Standardization, the Symfony Way** - Fabien Potencier at Laracon 2013](https://www.youtube.com/watch?v=0erGiEm07b8) `[1:00:05]`
 * [**The State of Laravel** - Taylor Otwell at Laracon 2014](https://www.youtube.com/watch?v=eyDFr7wCIdE) `[1:00:17]`
@@ -115,7 +115,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 [Back to top](#php-must-watch)
 
-###Others
+### Others
 * [**Intl Me This, Intl me That** - Andrei Zmievski at PHP UK Conference 2014](https://www.youtube.com/watch?v=g3M6YzzBEI4) `[51:56]`
 * [**Lisp** - Igor Wiedler at Laracon EU 2014](https://www.youtube.com/watch?v=FRaNUsiD_BA) `[56:00]`
 * [**Be Awesome in PHPStorm** - Jeffrey Way](https://laracasts.com/series/how-to-be-awesome-in-phpstorm) `~[2:00:00]` (series)
@@ -123,7 +123,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 [Back to top](#php-must-watch)
 
-###Advanced
+### Advanced
 * [**Include Hack - HHVM - PHP++** - Paul Tarjan, Sara Golemon at OSCON 2014](https://www.youtube.com/watch?v=JrPGa1JDX38) `[42:06]`
 * [**PHP Under The Hood** - Davey Shafik at PHP UK 2014](https://www.youtube.com/watch?v=bHZX-CM-qQc) `[36:19]`
 * [**Abstract Machines** - Igor Wiedler at Laracon 2014](https://www.youtube.com/watch?v=zu_iFwD8MfI) `[1:00:43]`
