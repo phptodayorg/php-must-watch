@@ -24,7 +24,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 ### General
 * [**PHPCraft SouthAfrica Keynote 2014**](https://www.youtube.com/watch?v=hPV6fEjoYq8) - Rasmus Lerdorf `[1:00:43]`
-* [**It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase**](https://vimeo.com/47849625) - Paul M. Jones at Nashville PHP `[47:44]`
+* [**It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase**](https://www.youtube.com/watch?v=65NrzJ_5j58) - Paul M. Jones at Nashville PHP `[47:44]`
 * [**My Take on PHP**](https://www.youtube.com/watch?v=gpNbmEnRLBU) - Fabien Potencier at dotScale 2014 `[18:19]`
 * [**The Modern Developer Toolbox**](https://www.youtube.com/watch?v=VHkIc329Idw) - Pablo Godel at PHPNW14 `[49:55]`
 * [**PHP-FIG:History and Future**](https://www.youtube.com/watch?v=Gp9oSfSfr5I) - Phil Sturgeon at PHP CRAFT SouthAfrica 2014 `[1:05:01]`
