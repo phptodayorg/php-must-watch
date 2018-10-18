@@ -23,6 +23,7 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 [Back to top](#php-must-watch)
 
 ### General
+* [**PHP in 2017 - Rasmus Lerdorf @ WeAreDevelopers Conference 2017**](https://www.youtube.com/watch?v=fYTKm2oUzAg) - Rasmus Lerdorf `[24:41]`
 * [**PHPCraft SouthAfrica Keynote 2014**](https://www.youtube.com/watch?v=hPV6fEjoYq8) - Rasmus Lerdorf `[1:00:43]`
 * [**It Was Like That When I Got Here: Steps Toward Modernizing a Legacy Codebase**](https://www.youtube.com/watch?v=65NrzJ_5j58) - Paul M. Jones at Nashville PHP `[47:44]`
 * [**My Take on PHP**](https://www.youtube.com/watch?v=gpNbmEnRLBU) - Fabien Potencier at dotScale 2014 `[18:19]`
